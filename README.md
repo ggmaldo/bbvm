@@ -109,6 +109,8 @@ In the diagram:
 - Instruction STORE moves it into mem[0]
 - MEMORY now holds the result
 
+For more info on how to create a .irn program go to 📘 BBVM Instruction Set Reference.md
+
   ## 🤝 Contributing
 
 Feel free to open pull requests with new features, bug fixes, or example .irn programs. You’re welcome to help improve the instruction set or architecture.
